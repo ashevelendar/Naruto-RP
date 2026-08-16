@@ -12,7 +12,6 @@
 
 ## Recent Field Use
 - Ashe used Invisibility to approach an active holding site without being visually detected.
-- She used Remote Light Redirection to inspect the interior from an angle that did not require direct line-of-sight.
 - During the assault, she deliberately pushed Lightspeed Slashes to maximum practical output, using rapid chained movement to neutralise the captors she encountered before withdrawing.
 - The burst left Ashe heavily chakra-depleted.
 - This is the first recorded use of Lightspeed Slashes at this extreme output in an actual hostile infiltration rather than controlled training.
