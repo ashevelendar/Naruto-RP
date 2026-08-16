@@ -22,6 +22,9 @@ This file supplements the main Cards files. Its purpose is to prevent continuity
 - Kōton Light Control: **18/20**
 - The Hollow: Secret
 - Kōton: Secret
+- Riverhome: Heightened readiness due to regional attacks
+- Old House refuge: Operational
+- Active immediate plan: Ashe has returned to Riverhome and is preparing to return to the forest holding site with Hiro, her father, and a small team.
 
 ---
 
@@ -284,15 +287,18 @@ They have developed a genuine family relationship after the period of separation
 
 ## Trafficking Network
 
-Status: **Unresolved**
+Status: **Unresolved and recently reconfirmed as active**
 
 Known:
-- Ashe discovered a holding site.
+- Ashe discovered an original holding site.
 - Nine civilians were rescued.
 - A wider network existed.
 - A ledger was recovered.
 - A recurring three-line symbol exists.
 - Prisoner movement involved a river crossing.
+- A second holding site has now been discovered in the forest near Riverhome.
+- The second site was actively holding prisoners when Ashe found it.
+- Captors at the site were neutralised by Ashe during her initial assault.
 
 Unknown:
 - Leadership
@@ -300,17 +306,20 @@ Unknown:
 - Buyers
 - Geographic reach
 - Wider connections
-- Current activity
+- Current activity beyond the discovered site
+- Whether the recent regional attacks are directly connected
 
 ---
 
 ## Three-Line Symbol
 
-Status: **Unresolved**
+Status: **Confirmed recurring mark**
 
 Associated with the trafficking network.
 
-Meaning unknown.
+It was found at the newly discovered forest holding site.
+
+Meaning remains unknown.
 
 ---
 
@@ -331,6 +340,27 @@ Status: **Unresolved**
 Possible prisoner-transfer route.
 
 Exact location and current activity remain unknown.
+
+---
+
+## Regional Attacks
+
+Status: **Active regional concern**
+
+Known:
+- Reports of bandits, missing-nin, and other armed groups attacking small settlements.
+- One settlement a few villages away from Riverhome has been confirmed as attacked.
+- Konoha is searching for the perpetrators.
+
+Unknown:
+- Exact perpetrators
+- Organisation
+- Location
+- Motive
+- Whether they are connected to the trafficking network
+- Whether Riverhome is specifically at risk
+
+Do not merge the regional attacks and trafficking network into one confirmed organisation without evidence.
 
 ---
 
@@ -362,6 +392,8 @@ Particularly:
 - Maintaining techniques while moving
 - Maintaining techniques while tired
 - Tactical applications
+
+Recent field use demonstrated that maximum-output Lightspeed Slashes can be extremely effective for rapid assault but consume a large amount of chakra.
 
 ---
 
@@ -434,15 +466,15 @@ She may:
 
 ---
 
-# 16. IMPORTANT SOURCE DISCREPANCY
+# 16. IMPORTANT SOURCE CORRECTION
 
-The historical timeline currently describes the early Konoha contact as:
+The historical timeline previously described the early Konoha contact as:
 
 > "Brief contact and sparring draw with Konoha Genkin Ren."
 
-"Genkin" may be a typo for "Genin".
+This was a typo. The correct term is **Genin**.
 
-Do not silently invent additional details about Ren until the underlying roleplay record establishes them.
+The event remains otherwise unchanged. Do not invent additional details about Ren until the underlying roleplay establishes them.
 
 ---
 
@@ -470,6 +502,7 @@ The current cards are enough to continue the roleplay, but the following would m
 - Exact livestock
 - Exact trade partners
 - Current laws / Charter text
+- Exact specifications and capacity of the new Old House refuge
 
 ### People
 - Full resident list for all 51 people
