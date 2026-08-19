@@ -46,7 +46,12 @@
 - Ashe applies those lessons to her hard-light weapon use and discovers **Selective Solidity**, allowing portions of a construct to become solid or non-solid at chosen moments.
 - Ashe experiments with **Dynamic Expansion / Geometry**, successfully expanding a narrow hard-light blade after it is partially embedded in a wooden training post.
 - Ashe privately tests Kōton in her Konoha inn room, including urban light manipulation, Invisibility, Eclipse shaping, and Remote Light Redirection.
-- Ashe discovers **Remote Hard-Light Formation**, successfully forming a small hard-light blade several feet away using candlelight/ambient light rather than forming it directly in her hand. The technique remains experimental and has not been combat-tested.
+- Ashe discovers **Remote Hard-Light Formation**, successfully forming a small hard-light blade several feet away using candlelight/ambient light rather than forming it directly in her hand. The technique remains experimental.
+- Ashe discovers that hard-light weapons can be made visually undetectable to ordinary human vision while remaining physically functional.
+- Ashe refines invisible hard-light weapons for approximately one week in a secluded Land of Waterfalls clearing. She discovers that keeping the construct non-solid while positioning it is substantially cheaper than maintaining continuous hard-light solidity, and that only the intended section needs to be hardened at the moment of interaction.
+- Ashe deliberately combines this new invisible selective-solidity principle with the already-established Internal / Embedded Hardening and Dynamic Expansion principles. A construct can be positioned inside an inanimate target while non-solid, expanded or shaped as needed, then hardened internally.
+- Ashe spends approximately another week hunting animals for food while using the new Kōton principles. The animals provide moving, fleeing, jumping and attacking living targets, allowing practical testing of positioning and timing while also supplying food Ashe would have hunted regardless.
+- Ashe takes regular chakra-rest periods during the experiments and resumes after recovery.
 - Ashe witnesses the Chūnin Exam invasion and assists civilians while masked. She uses ordinary combat first, then Kōton during the chaos.
 - Ashe uses repeated Flash Steps to escape the arena and then leaves Konoha once the fighting slows.
 - Ashe travels south, then takes a western route into the **Land of Waterfalls**.
