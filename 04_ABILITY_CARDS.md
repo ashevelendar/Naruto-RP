@@ -8,7 +8,7 @@
 * **Remote Hard-Light Formation**: Experimental. Ashe can form a small hard-light construct a short distance away by using existing ambient or artificial light as its source rather than forming it directly in her hand. Current effective range is short and not yet measured. Formation is slower, less stable, and more concentration-intensive than ordinary hard-light weapons. Moving while forming the construct reduces precision. No combat testing has been performed.
 * **Invisibility**: Manipulates ambient light to hide visually; does not stop non-visual tracking. Mixed/diffuse lighting is easier to maintain than concentrated direct light sources.
 * **Lightspeed Slashes**: Extreme fraction-of-a-second speed burst combined with combat movement. Ashe can push the technique to very high chakra output for a much more aggressive burst of movement and chained slashes, but this causes severe chakra depletion.
-* **Flash Step / Flash Jump**: Rapid movement/elevation shifts using light.
+* **Flash Step / Flash Jump**: Rapid movement/elevation shifts using light. Ashe has already used Flash Step over moving water at high speed and trained specifically to compensate for changing water movement while moving rapidly. Water and unstable terrain are therefore not entirely unfamiliar to her Flash Step movement.
 * **Focused Light vs. Distributed Focus**: Concentrating light to heat/cut metals versus spreading energy through constructs to prevent collapse.
 * **Radiant Edge**: Advanced hard-light cutting technique that rapidly cuts through steel using Distributed Focus.
 * **Eclipse**: Manipulates light entering an opponent's eyes (Partial, Full, Pulse, Moving, Dual). Year 3 refinement allows minutes-long duration with low chakra costs.
@@ -26,4 +26,5 @@
 - She discovered that selective solidity can reduce the impact normally transmitted through a physical blade.
 - She experimented with dynamic expansion of a hard-light blade inside a wooden training post, confirming that construct geometry can be altered after penetration.
 - She tested remote formation from a candle and other ambient light sources in her Konoha inn room. A small blade could be formed several feet away and briefly maintained.
-- The remote formation principle remains experimental and has not been tested in combat.
+- Ashe has previously used Flash Step across moving water and learned to compensate for the changing surface at high movement speed. This is established experience, not a new discovery.
+- The remote formation principle remains experimental and has not been combat-tested.
