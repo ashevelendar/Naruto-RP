@@ -41,9 +41,19 @@
 - The trafficking investigation is closed from Ashe's perspective. Konoha takes responsibility for pursuing it. Ashe does not intend to revisit the matter unless she explicitly chooses to.
 - Ashe formally delegates routine civil affairs to her mother and resumes her original ambition of travelling and exploring the wider world.
 - Ashe travels to Konoha during the Chūnin Exams specifically to observe shinobi from different villages and study their combat styles.
-- In Konoha, Ashe informally spars with a local shinobi, learning practical differences in taijutsu and adaptive combat.
-- Ashe trains with a Konoha swordsman, studying sword footwork, body alignment, timing, recovery, and the practical differences between sword and kunai fighting.
+- Ashe's existing conventional shinobi and swordsmanship skills are recognised as pre-existing. Konoha provides additional tactical perspectives rather than basic instruction.
+- Ashe trains with a Konoha swordsman, studying additional sword footwork, body alignment, timing, recovery, and tactical applications.
 - Ashe applies those lessons to her hard-light weapon use and discovers **Selective Solidity**, allowing portions of a construct to become solid or non-solid at chosen moments.
 - Ashe experiments with **Dynamic Expansion / Geometry**, successfully expanding a narrow hard-light blade after it is partially embedded in a wooden training post.
 - Ashe privately tests Kōton in her Konoha inn room, including urban light manipulation, Invisibility, Eclipse shaping, and Remote Light Redirection.
 - Ashe discovers **Remote Hard-Light Formation**, successfully forming a small hard-light blade several feet away using candlelight/ambient light rather than forming it directly in her hand. The technique remains experimental and has not been combat-tested.
+- Ashe witnesses the Chūnin Exam invasion and assists civilians while masked. She uses ordinary combat first, then Kōton during the chaos.
+- Ashe uses repeated Flash Steps to escape the arena and then leaves Konoha once the fighting slows.
+- Ashe travels south, then takes a western route into the **Land of Waterfalls**.
+- Ashe sends a message to Riverhome confirming that she is safe, explaining that she has crossed into the Land of Waterfalls, and asking how Riverhome is doing.
+- Ashe explores a small settlement in the Land of Waterfalls and studies local markets and trade.
+- Ashe trains at a local training ground and meets **Daichi**, a local Chūnin. They exchange names and train together for several days.
+- Waterfalls training focuses on applying Ashe's already-established conventional combat, swordsmanship and chakra-control skills to moving water, uneven ground, cliffs, trees, and rapid terrain transitions.
+- Ashe does **not** use Kōton or Flash Step during this public training with Daichi. Her pre-existing Flash Step experience on moving water remains private knowledge.
+- Ashe develops better conventional terrain integration, particularly with kunai and sword use in difficult environments.
+- Ashe leaves the settlement and continues travelling deeper into the Land of Waterfalls.
