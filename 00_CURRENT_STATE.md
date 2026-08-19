@@ -10,11 +10,13 @@
 - The Hollow: Secret and restricted
 - Kōton Light Control: **18/20**
 - Original ambition: Explore the world
-- Current location: Konoha
-- Current purpose: Observe the Chūnin Exams, study shinobi from different villages, and learn unfamiliar combat styles.
+- Current location: Outside Konoha, travelling south after the Chūnin Exam invasion
+- Current purpose: Resume travelling and gradually explore lands beyond the Land of Fire.
+- Long-term interest: Eventually discover the wider shinobi underworld, including missing-nin, bounty hunters, underground fighting, criminal and mercenary circles, and other unofficial networks, but this should emerge naturally rather than being forced.
 - Riverhome leadership: Ashe has formally delegated routine civil affairs to her mother while travelling; Riverhome continues independently through the council, Guard, Academy, schoolhouse, and established trade.
 - Mask: Normally not worn. Ashe wears it when deliberately concealing her identity or when using Kōton in situations where she does not want the ability associated with her. Kōton use should not automatically identify the masked shinobi as Ashe.
-- Chakra status: Recovering after recent private Kōton experimentation; not dangerously depleted.
+- Chakra status: Low after the Chūnin Exam invasion and repeated Flash Steps used to escape Konoha. Recovering with rest.
+- Physical status: Tired with minor injuries from the invasion, but no serious known injury.
 
 ## Kōton Secrecy, ABSOLUTE
 - Kōton is a unique kekkei genkai possessed only by Ashe.
@@ -30,6 +32,7 @@
 - Dynamic Expansion / Geometry: established experimentally on wooden training material. A narrow blade can be inserted and expanded while partially embedded. Practical use against living targets remains untested.
 - Remote Hard-Light Formation: experimental. Ashe can form a small hard-light blade several feet away using existing candlelight or other ambient light rather than forming it in her hand. Current range, speed, chakra cost and combat reliability are unknown.
 - Urban light manipulation: Remote Light Redirection and Invisibility have been tested privately in Konoha. Concentrated artificial light can make Invisibility more difficult than diffuse or mixed lighting.
+- Kōton was used openly within the chaos of the Chūnin Exam invasion while Ashe was masked. Several shinobi may have witnessed unusual light constructs, but no one has established Kōton's true identity or linked it to Ashe.
 
 ## Riverhome
 - Population: **51 permanent residents**
@@ -48,17 +51,27 @@
 - Kōton: Completely secret
 
 ## Konoha
-- Ashe is currently staying at a small inn in Konoha.
-- She came specifically because the Chūnin Exams are taking place and she wants to observe shinobi from different villages and study their combat styles.
-- Ashe has trained informally with a Konoha shinobi, learning practical differences between taijutsu, kunai use, and swordsmanship.
-- Ashe has not entered the Chūnin Exams and has no established reason to do so.
-- Ashe does not automatically know the names or identities of exam participants. She recognises people only when there is a realistic reason to know them.
+- Ashe travelled to Konoha because the Chūnin Exams were taking place and she wanted to observe shinobi from different villages and study their combat styles.
+- Ashe trained informally with a Konoha shinobi, learning practical differences in taijutsu, kunai use, and swordsmanship.
+- Ashe trained with a Konoha swordsman and applied the lessons to her hard-light weapon use.
+- Ashe observed the Chūnin Exam finals.
+- During the finals, Konoha was attacked. Ashe assisted civilians and fought attacking shinobi while masked, using ordinary combat skills and then Kōton.
+- As the situation became too dangerous, Ashe escaped the immediate battlefield using repeated Flash Steps, then left Konoha once the fighting had substantially slowed.
+- Ashe is now travelling south away from Konoha.
+
+## Chūnin Exam Invasion
+- Ashe witnessed the invasion beginning during the Chūnin Exam finals.
+- She saw the arena descend into fighting and heard that the Sand was involved.
+- Ashe fought several attackers while helping civilians evacuate.
+- While masked, she used Kōton in combat, including hard-light weapons and experimental remote hard-light formation.
+- She did not remain to participate in the wider conflict and escaped Konoha after the fighting slowed.
+- Do not assume Ashe knows the full circumstances or aftermath of the invasion unless she learns them naturally through future events.
 
 ## Regional Situation
 - Rumours of bandits, missing-nin, and other armed groups have reached Riverhome.
 - Several small settlements in the wider region have reportedly been attacked.
 - A settlement a few villages away from Riverhome was confirmed to have been hit.
-- Konoha is searching for the perpetrators, but their identities and location remain unknown to Riverhome.
+- Konoha was searching for the perpetrators, but their identities and location were unknown to Riverhome.
 - This regional issue is separate from the closed trafficking incident unless future evidence explicitly establishes otherwise.
 
 ## Trafficking Investigation, CLOSED FOR ASHE
@@ -80,6 +93,6 @@
 - The refuge is part of Riverhome's defensive preparations and is not a public secret outside the settlement.
 
 ## Current Focus
-Ashe is travelling again. The immediate focus is exploration and observing the wider shinobi world, particularly during the Chūnin Exams. Future developments should arise naturally from travel, people Ashe encounters, combat training, Naruto-era events, Kōton refinement, Riverhome's independent development, trade, relationships, or unrelated world events.
+Ashe has resumed travelling. She is leaving the Land of Fire and intends to explore other lands and regions of the Naruto world. The journey should include ordinary travel, settlements, cultures, trade, shinobi, relationships, exploration, training, and occasional danger. Over time, opportunities to encounter the wider shinobi underworld may arise naturally, but they must not be forced.
 
 Do not force a replacement conspiracy simply because the previous plot has ended.
