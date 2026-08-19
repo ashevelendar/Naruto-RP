@@ -14,6 +14,15 @@
 - Riverhome leadership: Ashe intends to make the delegation of routine leadership to her mother formally recognised by the council rather than continuing to hold the role in name while travelling.
 - Chakra status: Recovering from the earlier maximum-output Lightspeed Slashes used during the closed trafficking incident.
 
+## Kōton Secrecy, ABSOLUTE
+- Kōton is a unique kekkei genkai possessed only by Ashe.
+- **Only Ashe's mother and father know that Kōton exists and that Ashe possesses it.**
+- No Riverhome council member, Guard member, teacher, resident, merchant, Konoha shinobi, neighbouring village, or other known person is aware that Ashe has Kōton unless Ashe explicitly reveals it in play.
+- Riverhome residents may know that Ashe has unusual abilities only if such knowledge has been explicitly established, but they do **not** know the name Kōton or its true nature by default.
+- The existence, name, mechanics, techniques, and origin of Kōton must not be casually mentioned in public, council discussions, official records, reports to Konoha, or ordinary NPC dialogue.
+- The Hollow is also secret and must not be treated as public knowledge.
+- When Ashe uses Kōton secretly, NPCs should only infer what they could realistically observe. They should not identify the technique or kekkei genkai without an established reason.
+
 ## Riverhome
 - Population: **51 permanent residents**
 - Adults: **40**
