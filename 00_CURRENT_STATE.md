@@ -5,30 +5,39 @@
 
 ## Ashe Tsu
 - Age: 18
-- Role: First Speaker of Riverhome, transitioning toward a travelling role
+- Role: Travelling First Speaker of Riverhome
 - Kōton: Secret
 - The Hollow: Secret and restricted
-- Kōton Light Control: 18/20
+- Kōton Light Control: **18/20**
 - Original ambition: Explore the world
-- Current decision: Resume travelling now that Riverhome is stable and Ashe's mother has taken over most day-to-day civil duties.
-- Riverhome leadership: Ashe intends to make the delegation of routine leadership to her mother formally recognised by the council rather than continuing to hold the role in name while travelling.
-- Chakra status: Recovering from the earlier maximum-output Lightspeed Slashes used during the closed trafficking incident.
+- Current location: Konoha
+- Current purpose: Observe the Chūnin Exams, study shinobi from different villages, and learn unfamiliar combat styles.
+- Riverhome leadership: Ashe has formally delegated routine civil affairs to her mother while travelling; Riverhome continues independently through the council, Guard, Academy, schoolhouse, and established trade.
+- Mask: Normally not worn. Ashe wears it when deliberately concealing her identity or when using Kōton in situations where she does not want the ability associated with her. Kōton use should not automatically identify the masked shinobi as Ashe.
+- Chakra status: Recovering after recent private Kōton experimentation; not dangerously depleted.
 
 ## Kōton Secrecy, ABSOLUTE
 - Kōton is a unique kekkei genkai possessed only by Ashe.
 - **Only Ashe's mother and father know that Kōton exists and that Ashe possesses it.**
 - No Riverhome council member, Guard member, teacher, resident, merchant, Konoha shinobi, neighbouring village, or other known person is aware that Ashe has Kōton unless Ashe explicitly reveals it in play.
-- Riverhome residents may know that Ashe has unusual abilities only if such knowledge has been explicitly established, but they do **not** know the name Kōton or its true nature by default.
 - The existence, name, mechanics, techniques, and origin of Kōton must not be casually mentioned in public, council discussions, official records, reports to Konoha, or ordinary NPC dialogue.
-- The Hollow is also secret and must not be treated as public knowledge.
 - When Ashe uses Kōton secretly, NPCs should only infer what they could realistically observe. They should not identify the technique or kekkei genkai without an established reason.
+- The Hollow is also secret and must not be treated as public knowledge.
+
+## Kōton Recent Development
+- Hard-Light Weapons: refined through conventional swordsmanship training.
+- Selective Solidity: established. Portions of constructs can be hardened or de-hardened independently.
+- Dynamic Expansion / Geometry: established experimentally on wooden training material. A narrow blade can be inserted and expanded while partially embedded. Practical use against living targets remains untested.
+- Remote Hard-Light Formation: experimental. Ashe can form a small hard-light blade several feet away using existing candlelight or other ambient light rather than forming it in her hand. Current range, speed, chakra cost and combat reliability are unknown.
+- Urban light manipulation: Remote Light Redirection and Invisibility have been tested privately in Konoha. Concentrated artificial light can make Invisibility more difficult than diffuse or mixed lighting.
 
 ## Riverhome
 - Population: **51 permanent residents**
 - Adults: **40**
 - Children: **11**
 - Government: Free, council-governed settlement
-- Leader: Ashe Tsu, First Speaker, with her mother handling most day-to-day civil affairs
+- Leader: Ashe Tsu, travelling First Speaker
+- Civil Affairs: Ashe's mother, formally handling routine administration while Ashe travels
 - Guard: Active
 - Guard Academy: Established and expanding
 - Schoolhouse: Active and expanded
@@ -38,12 +47,19 @@
 - The Hollow: Secret
 - Kōton: Completely secret
 
+## Konoha
+- Ashe is currently staying at a small inn in Konoha.
+- She came specifically because the Chūnin Exams are taking place and she wants to observe shinobi from different villages and study their combat styles.
+- Ashe has trained informally with a Konoha shinobi, learning practical differences between taijutsu, kunai use, and swordsmanship.
+- Ashe has not entered the Chūnin Exams and has no established reason to do so.
+- Ashe does not automatically know the names or identities of exam participants. She recognises people only when there is a realistic reason to know them.
+
 ## Regional Situation
 - Rumours of bandits, missing-nin, and other armed groups have reached Riverhome.
 - Several small settlements in the wider region have reportedly been attacked.
 - A settlement a few villages away from Riverhome was confirmed to have been hit.
 - Konoha is searching for the perpetrators, but their identities and location remain unknown to Riverhome.
-- Riverhome is maintaining heightened vigilance, but there is no confirmed immediate attack against it.
+- This regional issue is separate from the closed trafficking incident unless future evidence explicitly establishes otherwise.
 
 ## Trafficking Investigation, CLOSED FOR ASHE
 - Ashe discovered and destroyed an active trafficking holding site in the forest.
@@ -64,8 +80,6 @@
 - The refuge is part of Riverhome's defensive preparations and is not a public secret outside the settlement.
 
 ## Current Focus
-Ashe is preparing to resume her original ambition of exploring the wider world. Riverhome is stable enough that she no longer needs to personally handle most daily administration, and her mother has already been performing most civil-affairs duties. Ashe now intends to make that arrangement formally recognised before departing.
-
-Future events should arise naturally from Ashe's travels, Riverhome's independent development, relationships, exploration, training, trade, Kōton development, Naruto-era events, or unrelated world events.
+Ashe is travelling again. The immediate focus is exploration and observing the wider shinobi world, particularly during the Chūnin Exams. Future developments should arise naturally from travel, people Ashe encounters, combat training, Naruto-era events, Kōton refinement, Riverhome's independent development, trade, relationships, or unrelated world events.
 
 Do not force a replacement conspiracy simply because the previous plot has ended.
