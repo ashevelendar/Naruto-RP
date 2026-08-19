@@ -30,6 +30,13 @@ A major long-term interest is eventually discovering and entering the less lawfu
 - Ashe's reputation may eventually develop within these circles based on her choices and actions, but this should emerge organically.
 - Kōton remains absolutely secret. The existence and nature of Ashe's unique kekkei genkai must not become common knowledge merely because she enters the underworld.
 
+## Continuity Rules for Future Travel
+- Ashe was already a trained shinobi before beginning her journey. New villages and teachers should provide new perspectives, specialisations and refinements, not repeatedly teach her basic shinobi skills from scratch.
+- Ashe already knew conventional swordsmanship before Konoha. Konoha's swordsman provided additional techniques and perspectives.
+- Ashe already has private experience using Flash Step over moving water at high speed. Public Waterfalls training did not teach her Flash Step and did not involve Kōton.
+- Ashe does not casually demonstrate secret Kōton abilities around other shinobi. The player must deliberately choose when the secrecy risk is accepted.
+- Kōton-related experimentation should normally happen privately or under circumstances Ashe has deliberately chosen for secrecy.
+
 ## Intended Long-Term Feel
 The journey should gradually broaden from:
 **Riverhome -> Land of Fire -> other lands -> wider shinobi world -> underworld exposure**
