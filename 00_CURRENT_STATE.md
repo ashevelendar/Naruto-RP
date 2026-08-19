@@ -5,20 +5,21 @@
 
 ## Ashe Tsu
 - Age: 18
-- Role: First Speaker of Riverhome
+- Role: First Speaker of Riverhome, transitioning toward a travelling role
 - Kōton: Secret
 - The Hollow: Secret and restricted
 - Kōton Light Control: 18/20
 - Original ambition: Explore the world
-- Current status: Returned to Riverhome after resolving a trafficking holding-site incident and is now moving on from that investigation.
-- Chakra status: Recovering from the earlier maximum-output Lightspeed Slashes used during the holding-site assault.
+- Current decision: Resume travelling now that Riverhome is stable and Ashe's mother has taken over most day-to-day civil duties.
+- Riverhome leadership: Ashe intends to make the delegation of routine leadership to her mother formally recognised by the council rather than continuing to hold the role in name while travelling.
+- Chakra status: Recovering from the earlier maximum-output Lightspeed Slashes used during the closed trafficking incident.
 
 ## Riverhome
 - Population: **51 permanent residents**
 - Adults: **40**
 - Children: **11**
 - Government: Free, council-governed settlement
-- Leader: Ashe Tsu, First Speaker
+- Leader: Ashe Tsu, First Speaker, with her mother handling most day-to-day civil affairs
 - Guard: Active
 - Guard Academy: Established and expanding
 - Schoolhouse: Active and expanded
@@ -54,6 +55,8 @@
 - The refuge is part of Riverhome's defensive preparations and is not a public secret outside the settlement.
 
 ## Current Focus
-The trafficking incident is over from Ashe's perspective. The world should continue independently, and new developments should arise naturally from Riverhome, Ashe's ambitions, regional politics, ordinary life, exploration, relationships, training, trade, Kōton development, Naruto-era events, or unrelated world events.
+Ashe is preparing to resume her original ambition of exploring the wider world. Riverhome is stable enough that she no longer needs to personally handle most daily administration, and her mother has already been performing most civil-affairs duties. Ashe now intends to make that arrangement formally recognised before departing.
+
+Future events should arise naturally from Ashe's travels, Riverhome's independent development, relationships, exploration, training, trade, Kōton development, Naruto-era events, or unrelated world events.
 
 Do not force a replacement conspiracy simply because the previous plot has ended.
