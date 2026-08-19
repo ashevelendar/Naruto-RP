@@ -26,7 +26,7 @@
 
 ## Year 3: Early Spring, Present Day
 - Riverhome is a stable, self-sustaining regional hub with established trade, agriculture, livestock, school, Guard, and Guard Academy.
-- Ashe's Kōton control reaches **18/20**, with refinement increasingly focused on efficiency, reliability, movement, and tactical application rather than constant invention.
+- Ashe's Kōton control reaches **18/20**, with refinement increasingly focused on efficiency, reliability, movement, tactical application, and control over construct geometry.
 - Regional rumours begin circulating about bandits, missing-nin, and other armed groups attacking small settlements.
 - A settlement a few villages away from Riverhome is confirmed to have been attacked. Konoha is searching for the perpetrators, but Riverhome has no confirmed information about their identity or location.
 - Riverhome establishes a concealed emergency refuge beneath the Old House for children and injured or otherwise vulnerable residents.
@@ -35,5 +35,15 @@
 - The structure is confirmed as a holding site containing armed captors and prisoners. The recurring three-line symbol associated with the trafficking network is found there.
 - Ashe learns that prisoners are due to be moved before dawn.
 - Ashe uses maximum-output Lightspeed Slashes to rapidly neutralise the captors she encounters, then immediately withdraws from the site.
-- Prisoners remain at the holding site.
-- Ashe returns to Riverhome and decides to go back with Hiro, her father, and a small team to secure the site and deal with the prisoners.
+- Ashe returns to Riverhome and goes back with Hiro, her father, and a small team to recover the prisoners and evidence.
+- Nine prisoners are rescued, including two children. The holding site is burned and destroyed after evidence is recovered.
+- Ashe gives Konoha the recovered evidence and information while concealing the true circumstances of the captors' deaths behind a story about a mysterious masked shinobi.
+- The trafficking investigation is closed from Ashe's perspective. Konoha takes responsibility for pursuing it. Ashe does not intend to revisit the matter unless she explicitly chooses to.
+- Ashe formally delegates routine civil affairs to her mother and resumes her original ambition of travelling and exploring the wider world.
+- Ashe travels to Konoha during the Chūnin Exams specifically to observe shinobi from different villages and study their combat styles.
+- In Konoha, Ashe informally spars with a local shinobi, learning practical differences in taijutsu and adaptive combat.
+- Ashe trains with a Konoha swordsman, studying sword footwork, body alignment, timing, recovery, and the practical differences between sword and kunai fighting.
+- Ashe applies those lessons to her hard-light weapon use and discovers **Selective Solidity**, allowing portions of a construct to become solid or non-solid at chosen moments.
+- Ashe experiments with **Dynamic Expansion / Geometry**, successfully expanding a narrow hard-light blade after it is partially embedded in a wooden training post.
+- Ashe privately tests Kōton in her Konoha inn room, including urban light manipulation, Invisibility, Eclipse shaping, and Remote Light Redirection.
+- Ashe discovers **Remote Hard-Light Formation**, successfully forming a small hard-light blade several feet away using candlelight/ambient light rather than forming it directly in her hand. The technique remains experimental and has not been combat-tested.
