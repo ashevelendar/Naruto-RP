@@ -35,11 +35,11 @@
 ## Kōton Current Development
 - Hard-Light Weapons: established, including blades, kunai, shuriken and other simple forms.
 - Selective Solidity: established and highly refined. Ashe can deliberately make only portions of a construct solid, or release solidity before/after contact.
-- Dynamic Expansion / Geometry: established. Ashe can change a construct's size and shape after formation. In Konoha she successfully created a narrow hard-light blade, inserted it into a wooden training post, then expanded the construct while partially embedded. This principle is now intentionally combined with invisible, non-solid constructs.
+- Dynamic Expansion / Geometry: established. Ashe can change a construct's shape and size after formation. In Konoha she successfully created a narrow hard-light blade, inserted it into a wooden training post, then expanded the construct while partially embedded. This principle is now intentionally combined with invisible, non-solid constructs.
 - Remote Hard-Light Formation: experimental. Ashe can form a small hard-light construct a short distance away using ambient/artificial light rather than forming it directly in her hand. Range remains limited and combat reliability is unknown.
 - Invisible Hard-Light Constructs: established experimental capability. Ashe can manipulate the visible-light signature of a construct outside ordinary human visual perception while retaining physical properties.
-- Invisible Selective-Solidity: newly refined. Ashe can maintain a long invisible construct in a non-solid state, then harden only the relevant section at the chosen moment of interaction. The non-solid state is significantly cheaper to maintain than continuous hard-light solidity.
-- Internal/Embedded Hardening: established from the Konoha experiments and now deliberately integrated into the invisible-weapon principle. A construct can pass through an object while non-solid, occupy an internal position, then become solid while already inside the object. This is not a new discovery in the current Waterfalls training.
+- Invisible Selective-Solidity: refined. Ashe can maintain a long invisible construct in a non-solid state, then harden only the relevant section at the chosen moment of interaction. The non-solid state is significantly cheaper to maintain than continuous hard-light solidity.
+- Internal/Embedded Hardening: established from the Konoha experiments and now deliberately integrated into the invisible-weapon principle. A construct can pass through an object while non-solid, occupy an internal position, then become solid while already inside the object.
 - Invisible Dynamic Expansion: experimental application of the established Dynamic Expansion principle. An invisible non-solid construct can be positioned and expanded before selected portions are hardened.
 - Invisibility: manipulates ambient light to hide Ashe visually; does not stop non-visual tracking.
 - Lightspeed Slashes: extreme fraction-of-a-second speed burst combined with combat movement. Ashe can push the technique to very high chakra output for a much more aggressive burst of movement and chained slashes, but this causes severe chakra depletion.
@@ -59,8 +59,10 @@
 - Ashe then spent another week hunting animals in the forest for food while using the new Kōton principles against living, moving targets.
 - This hunting served both practical survival and controlled testing. Animals provided moving, fleeing, jumping, and attacking targets without compromising Kōton secrecy.
 - Ashe tested invisible non-solid constructs against animals and practised timing hardening around movement rather than only against stationary targets.
-- She deliberately avoided treating the technique as requiring a conventional slash. The relevant requirement is placing the construct correctly and hardening the appropriate section at the intended moment.
-- She continued taking breaks whenever chakra fell too low and resumed after recovery.
+- The hunting week established practical experience against moving living targets. Ashe learned to predict movement and place a construct where the animal was going to be rather than merely reacting to where it was.
+- Ashe experimented with invisible kunai, short swords, spears, narrow spikes, and other simple forms. Simple geometry remained easier to control.
+- She did not need to use conventional slashing contact. The relevant skill is correct positioning followed by precise selective hardening.
+- Ashe continued taking breaks whenever chakra fell too low and resumed after recovery.
 - No human witnessed these experiments.
 
 ## Recent Waterfalls Training
