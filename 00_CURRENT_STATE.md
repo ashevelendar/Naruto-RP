@@ -1,7 +1,7 @@
 # CURRENT STATE
 
 ## Date
-**Year 3, Early Spring**
+**Year 3, Early Winter**
 
 ## Ashe Tsu
 - Age: 18
@@ -10,11 +10,12 @@
 - The Hollow: Secret and restricted
 - Kōton Light Control: **18/20**
 - Original ambition: Explore the world
-- Current location: Land of Waterfalls, secluded waterfall training area
-- Current purpose: Resume travelling and gradually explore lands beyond the Land of Fire.
+- Current location: Takigakure region, Land of Waterfalls
+- Current purpose: Spend the winter in and around Takigakure while earning money through independent mercenary contracts and continuing to explore the wider world.
 - Long-term interest: Eventually discover the wider shinobi underworld, including missing-nin, bounty hunters, underground fighting, criminal and mercenary circles, and other unofficial networks, but this should emerge naturally rather than being forced.
 - Riverhome leadership: Ashe has formally delegated routine civil affairs to her mother while travelling; Riverhome continues independently through the council, Guard, Academy, schoolhouse, and established trade.
-- Mask: Normally not worn. Ashe wears it when deliberately concealing her identity or when using Kōton in situations where she does not want the ability associated with her. Kōton use should not automatically identify the masked shinobi as Ashe.
+- **Mask while working:** Whenever Ashe is inside a village or settlement for mercenary work, taking contracts, meeting clients, or otherwise operating in the local public sphere, she wears her mask. No one in those circumstances sees her face. The mask is part of her working identity and helps preserve anonymity.
+- **Mask outside work:** When travelling privately, resting in secluded areas, training alone, or otherwise not deliberately concealing her identity, Ashe may remove the mask. Kōton use remains secret regardless.
 
 ## Core Combat Continuity
 - Ashe was already a trained shinobi before reaching Konoha. Her parents trained her in basic and practical shinobi skills, including conventional combat, kunai use, movement and swordsmanship.
@@ -25,7 +26,7 @@
 ## Kōton Secrecy, ABSOLUTE
 - Kōton is a unique kekkei genkai possessed only by Ashe.
 - **Only Ashe's mother and father know that Kōton exists and that Ashe possesses it.**
-- No Riverhome council member, Guard member, teacher, resident, merchant, Konoha shinobi, Waterfalls shinobi, neighbouring village, or other known person is aware that Ashe has Kōton unless Ashe explicitly reveals it in play.
+- No Riverhome council member, Guard member, teacher, resident, merchant, Konoha shinobi, Waterfalls shinobi, neighbouring village, client, mercenary contact, or other known person is aware that Ashe has Kōton unless Ashe explicitly reveals it in play.
 - Ashe does **not** casually use Kōton around other shinobi or strangers. Kōton use requires an explicit player choice or a circumstance where Ashe deliberately accepts the secrecy risk.
 - The Hollow is also secret.
 
@@ -51,35 +52,33 @@
 - Ashe has now refined it into **continuous controlled high-speed movement** rather than separate point-to-point bursts.
 - The intended movement pattern is **A → B → C**, where B is a trajectory point rather than a stop. Ashe can accelerate to extreme speed, alter trajectory while still moving, and accelerate again without fully resetting the technique.
 - From an observer's perspective, short-distance movement can appear almost instantaneous, effectively resembling teleportation despite Ashe physically travelling through the intervening space.
-- Current training goal: make this continuous movement reliable enough to execute blindfolded in terrain Ashe knows well. She should not need to see a familiar route to navigate it at extreme speed.
-- When Ashe can see an unfamiliar route and its terrain, the intended goal is even greater speed because she can use real-time visual information rather than relying on memorised spatial knowledge.
-- This distinction is an active training objective, not a completed mastery.
+- Familiar-terrain blind movement is established. Ashe can execute complex continuous High-Output Flash Step routes blindfolded when she thoroughly knows the terrain.
+- When Ashe can see an unfamiliar route and its terrain, she can process individual terrain features and moving objects at extreme speed rather than experiencing the environment only as blur.
+- Ashe can track moving targets and throw basic hard-light kunai/shuriken at specific moving targets while travelling at extreme speed.
 
-## Six-Month Waterfall Training Plan
-- Ashe has chosen to remain at the secluded waterfall area for approximately **six months**.
-- She will make brief trips to the nearby settlement when supplies, equipment, food, medical items or other necessities are needed.
-- Hunting remains the primary means of obtaining food and also provides moving living targets for controlled training.
-- Main objective 1: Refine continuous High-Output Flash Step until Ashe can execute complex A → B → C routes blindfolded when she knows the terrain.
-- Main objective 2: Improve visual perception while moving at extreme Flash Step speeds, so that when Ashe can see her surroundings she can process the environment clearly rather than experiencing it only as blur.
-- Main objective 3: Learn to identify, track and react to moving objects while at extreme speed.
-- Main objective 4: Develop the ability to throw hard-light kunai or shuriken at a specific moving target while Ashe herself is moving at extreme Flash Step speed.
-- These are long-term training goals, not assumed completed abilities. Progress should be gradual and earned over the six months.
-- Training should include fatigue management, chakra recovery, hunting, terrain memorisation, blindfolded navigation, visual processing drills, moving-target tracking, projectile timing, and controlled high-speed trajectory changes.
+## Limb Flash Step
+- Ashe has established **Limb Flash Step / Extreme Limb Acceleration**, applying the acceleration principle of High-Output Flash Step to an individual limb rather than relocating her whole body.
+- An arm or leg can begin moving at normal speed and receive extreme acceleration during the same movement.
+- Sword strikes are the primary successful application. The attack can begin as a normal-looking sword movement and suddenly accelerate during its final portion.
+- Limb acceleration is not yet equivalent to full-body High-Output Flash Step. Maximum safe output remains below Ashe's full-body movement ceiling, and repeated use causes significant limb and joint stress.
+- Ashe has combined Limb Flash Step experimentally with an invisible hard-light blade, keeping the construct non-solid and visually undetectable while positioning it, then selectively hardening it after reaching the intended internal position. This combination has been successfully tested against animals and inanimate targets, but has not yet been used against a human opponent.
 
-## Recent Private Kōton Training
-- Ashe spent approximately one week refining Invisible Selective-Solidity in a secluded clearing.
-- She then spent approximately another week hunting animals for food while using invisible, non-solid constructs followed by selective hardening against moving living targets.
-- Animals provided moving, fleeing, jumping and attacking targets without compromising Kōton secrecy.
-- Ashe developed predictive placement, learning to position constructs where a moving target will be rather than simply reacting to its current location.
-- She tested invisible kunai, short swords, spears, narrow spikes and other simple forms.
-- No human witnessed these experiments.
+## Takigakure / Mercenary Work
+- Ashe has arrived in the Takigakure region before the heavy winter snow.
+- She has chosen to spend the winter in and around Takigakure.
+- She is taking independent mercenary contracts rather than official village missions.
+- Current work includes escorts, deliveries, protection jobs, and similar freelance tasks.
+- Ashe wears her mask for **all village/settlement contract work and client interactions**, and no client or local contact sees her face.
+- Her public working identity is therefore an anonymous masked freelancer.
+- Ashe has completed several routine contracts and has begun developing a small local reputation as a capable, reliable traveller.
+- A merchant escort was attacked by ordinary bandits. Ashe defeated them using conventional swordsmanship and the newly established Limb Flash Step without revealing Kōton.
+- Ashe is now specifically interested in taking somewhat more dangerous contracts, including protecting people through bandit territory, recovering stolen goods, and similar work that provides more genuine combat opportunities while still allowing her to keep Kōton hidden.
+- Some informal contract-board work is clearly legitimate, while other postings are questionable or potentially criminal. Ashe has noticed this but has not yet pursued the clearly criminal jobs.
 
-## Recent Waterfalls Training
-- Ashe met **Daichi**, a local Chūnin, at a small training ground in the Land of Waterfalls.
-- Ashe and Daichi exchanged names and trained together for several days before Ashe left.
-- Ashe trained conventional combat on moving water, uneven ground, cliffs, trees and transitions between surfaces.
-- Ashe practised kunai and sword fighting in difficult terrain.
-- Ashe did **not** use Kōton or Flash Step during this public training with Daichi.
+## Six-Month Waterfall Training
+- Ashe spent approximately six months at a secluded waterfall, making brief trips to the nearby settlement for supplies and breaks while surviving partly through hunting.
+- Training included blindfolded High-Output Flash Step through familiar terrain, visual processing at extreme speed, moving-target tracking, and hard-light projectile use while moving at extreme speed.
+- By the end of the six months, Ashe could execute complex continuous High-Output Flash Step routes blindfolded when she knew the terrain, process visible terrain and moving targets at extreme speed, and land basic hard-light kunai/shuriken throws against moving targets while moving herself at extreme speed.
 
 ## Riverhome
 - Population: **51 permanent residents**
@@ -98,7 +97,7 @@
 - Kōton: Completely secret
 
 ## Current Focus
-Ashe has deliberately chosen to spend approximately six months training at a secluded waterfall in the Land of Waterfalls. She is maintaining herself through hunting and will make brief trips to the nearby settlement for breaks and supplies. The wider world continues independently while she trains.
+Ashe is spending the winter in and around Takigakure while earning money through independent mercenary contracts. She is deliberately seeking somewhat more dangerous escort, protection and recovery work because it provides useful real-world combat experience without requiring her to reveal Kōton.
 
 The wider shinobi underworld remains a long-term possible direction, but it must emerge naturally and must not be forced.
 
