@@ -1,7 +1,7 @@
 # CURRENT STATE
 
 ## Date
-**Year 4, Early Spring**
+**Year 4, Early Summer**
 
 ## Ashe Tsu
 - Age: 19
@@ -48,13 +48,19 @@
 - Flash Step / Flash Jump: rapid movement/elevation shifts using light.
 - Established prior experience: Ashe can use Flash Step over moving water at high speed and compensate for changing water movement.
 - **High-Output Flash Step:** Ashe has successfully increased Flash Step output beyond her ordinary operating level, crossing a waterfall almost completely dry.
-- The higher-output version is an extremely short-duration burst, substantially faster than ordinary Flash Step, with high chakra expenditure and physical strain.
-- Ashe has now refined it into **continuous controlled high-speed movement** rather than separate point-to-point bursts.
-- The intended movement pattern is **A → B → C**, where B is a trajectory point rather than a stop. Ashe can accelerate to extreme speed, alter trajectory while still moving, and accelerate again without fully resetting the technique.
+- High-Output Flash Step was refined into continuous controlled high-speed movement rather than separate point-to-point bursts.
+- The established movement pattern is **A → B → C**, where B is a trajectory point rather than a stop. Ashe can accelerate to extreme speed, alter trajectory while still moving, and accelerate again without fully resetting the technique.
 - From an observer's perspective, short-distance movement can appear almost instantaneous, effectively resembling teleportation despite Ashe physically travelling through the intervening space.
 - Familiar-terrain blind movement is established. Ashe can execute complex continuous High-Output Flash Step routes blindfolded when she thoroughly knows the terrain.
 - When Ashe can see an unfamiliar route and its terrain, she can process individual terrain features and moving objects at extreme speed rather than experiencing the environment only as blur.
 - Ashe can track moving targets and throw basic hard-light kunai/shuriken at specific moving targets while travelling at extreme speed.
+- **Extreme High-Output Flash Step:** Newly established through one month of dedicated training. Ashe focused exclusively on increasing the speed and acceleration of High-Output Flash Step rather than learning another technique.
+- The key improvement is not merely a higher top speed. Ashe dramatically reduced the time required to reach extreme velocity, reducing the window available to an observer to perceive and react to her movement.
+- Extreme High-Output Flash Step uses violent acceleration and extremely high chakra output. It is practical only for short bursts and short continuous routes.
+- Ashe can maintain extreme velocity through short continuous routes and change direction without returning to ordinary movement, but sharp turns at maximum output remain dangerous.
+- Familiar terrain remains important for blind use. Ashe can navigate known routes at extreme output, but unknown terrain is substantially more dangerous.
+- The technique is **not inherently impossible to track**. Exceptional sensory abilities, prediction, wide-area techniques, or simply occupying the correct position can still counter or intercept it.
+- Extreme High-Output Flash Step has not yet been tested against a high-level shinobi. Its real combat effectiveness against Jonin-level opponents remains unknown.
 
 ## Limb Flash Step
 - Ashe has established **Limb Flash Step / Extreme Limb Acceleration**, applying the acceleration principle of High-Output Flash Step to an individual limb rather than relocating her whole body.
@@ -63,9 +69,10 @@
 - Limb acceleration is not yet equivalent to full-body High-Output Flash Step. Maximum safe output remains below Ashe's full-body movement ceiling, and repeated use causes significant limb and joint stress.
 - Ashe has combined Limb Flash Step experimentally with an invisible hard-light blade, keeping the construct non-solid and visually undetectable while positioning it, then selectively hardening it after reaching the intended internal position. This combination has been successfully tested against animals and inanimate targets, and has now been used successfully against a human missing-nin.
 - The human application demonstrated that Ashe can combine High-Output Flash Step, Limb Flash Step, an invisible non-solid hard-light sword, internal positioning, selective hardening and Dynamic Expansion in a single lethal sequence.
+- **Important current boundary:** Ashe has not yet combined Limb Flash Step with the newly developed Extreme High-Output Flash Step. That remains an untested escalation.
 
 ## Takigakure / Mercenary Work
-- Ashe has spent Year 3 winter in and around Takigakure taking independent mercenary and bounty contracts rather than official village missions.
+- Ashe has spent Year 3 winter and Year 4 spring in and around Takigakure taking independent mercenary and bounty contracts rather than official village missions.
 - Ashe wears her mask for **all village/settlement contract work and client interactions**, and no client or local contact sees her face.
 - Her public working identity is an anonymous masked freelancer.
 - During the winter she deliberately accepted increasingly dangerous contracts, using conventional swordsmanship, kunai, taijutsu, Limb Flash Step and tactical movement rather than relying exclusively on Kōton.
@@ -75,19 +82,27 @@
 - Ashe completed a high-value missing-nin bounty. She deliberately used her full arsenal when the fight became serious, including High-Output Flash Step, Eclipse, Radiant Edge, invisible hard-light construction, Limb Flash Step and internal hardening.
 - In the decisive attack, Ashe used High-Output Flash Step to close distance, accelerated her sword-bearing limb to extreme speed, positioned an invisible non-solid hard-light sword inside the missing-nin's chest, then hardened and expanded the construct internally. The missing-nin died immediately.
 - Ashe remained masked throughout. No one saw her face and no one learned that the masked freelancer was Ashe Tsu.
-- The missing-nin fight demonstrated the lethal human application of the invisible embedded-hardening combination, but also caused heavy chakra expenditure and significant arm/shoulder strain.
 - Ashe then spent approximately a week recovering. During recovery she removed her mask and returned to the nearby settlement as an ordinary traveller. She did not take contracts or use Kōton during recovery.
-- By the end of winter, Ashe had deliberately established a pattern of accepting increasingly dangerous contracts while still maintaining a balance between conventional combat and Kōton.
-- Ashe has now decided to begin accepting **missing-nin contracts as a regular category of work**.
-- **Missing-nin contract policy:** When Ashe accepts a missing-nin bounty, she does not intend to leave the target alive. She considers lethal resolution easier and safer than attempting to capture and transport a trained rogue shinobi. Unless circumstances make the target's survival unavoidable, missing-nin targets taken by Ashe are killed.
-- This policy is Ashe's own practical conclusion from fighting trained shinobi. It does not mean every future target will be easy or that every contract will proceed cleanly.
-- Ashe will still use conventional skills where appropriate. Kōton is a powerful part of her arsenal, not an automatic first move. She may escalate to Kōton and her full arsenal when the target warrants it.
-- The growing reputation of the masked freelancer may naturally lead locals to invent a nickname for her. Any nickname should arise organically from what witnesses and other contractors actually observe, not be imposed immediately or treated as a formal identity before it has spread.
+- During Year 4 spring, Ashe accepted a series of increasingly dangerous missing-nin contracts. She deliberately killed the targets rather than attempting capture, based on her practical conclusion that trained rogue shinobi are safer to eliminate than transport alive.
+- These contracts included former Genin, tracker/ambush specialists, and a former Chūnin-level missing-nin. Ashe used a mixture of conventional combat, swordsmanship, Limb Flash Step, Eclipse, High-Output Flash Step and Kōton depending on the threat.
+- The masked freelancer's reputation has begun spreading beyond simple reliability. Locals and contractors have begun inventing unofficial nicknames, including **Waterfall Ghost**, **Flash Blade**, and **Black Mask**. None is yet established as definitive, and the eventual nickname should emerge naturally from the world.
+- Ashe has now taken a one-month break from contracts to develop Extreme High-Output Flash Step.
+- Following the month of training, Ashe is now specifically seeking **Jonin-level missing-nin contracts** to test whether the new Extreme High-Output Flash Step can defeat or evade shinobi capable of tracking her previous High-Output Flash Step.
 
 ## Six-Month Waterfall Training
 - Ashe spent approximately six months at a secluded waterfall, making brief trips to the nearby settlement for supplies and breaks while surviving partly through hunting.
 - Training included blindfolded High-Output Flash Step through familiar terrain, visual processing at extreme speed, moving-target tracking, and hard-light projectile use while moving at extreme speed.
 - By the end of the six months, Ashe could execute complex continuous High-Output Flash Step routes blindfolded when she knew the terrain, process visible terrain and moving targets at extreme speed, and land basic hard-light kunai/shuriken throws against moving targets while moving herself at extreme speed.
+
+## One-Month Extreme Speed Training
+- Ashe spent one full month doing no mercenary work and focusing exclusively on increasing Flash Step speed.
+- The training was performed primarily at the secluded waterfall and through familiar forest routes.
+- Ashe discovered that simply adding more chakra to increase top speed became inefficient. The more important improvement was reducing the time spent accelerating and transitioning into extreme velocity.
+- She trained explosive acceleration, continuous movement, route transitions and directional changes.
+- The result is Extreme High-Output Flash Step, which reaches extreme velocity much faster than the previous High-Output version and therefore reduces the reaction window available to observers.
+- Ashe successfully crossed the waterfall at the new output with dramatically less perceived interaction with the falling water than during her original high-output training.
+- Ashe tested the new movement through familiar A → B → C routes and achieved continuous high-speed directional changes without fully resetting to normal speed.
+- The new technique has not yet been tested against a Jonin-level opponent or exceptional sensory shinobi.
 
 ## Riverhome
 - Population: **51 permanent residents**, last confirmed figure
@@ -107,7 +122,9 @@
 - Ashe has sent financial support back to Riverhome from her mercenary earnings. The exact amount was intentionally left unspecified.
 
 ## Current Focus
-Ashe is entering Year 4 and continuing her life as an anonymous masked mercenary and bounty hunter. She is now specifically willing to take missing-nin contracts and expects lethal outcomes when she accepts them, while still relying on conventional combat whenever it is sufficient. Kōton remains completely secret and is only used when Ashe explicitly chooses to reveal its capabilities to the situation, always while masked during public contract work.
+Ashe is in Year 4, early summer, in the Land of Waterfalls. She has finished a month-long speed-focused training period and is now deliberately seeking **Jonin-level missing-nin contracts**. Her purpose is to test the new Extreme High-Output Flash Step against significantly stronger shinobi and discover whether the reduced acceleration window makes her movement substantially harder to track.
+
+Ashe will still use conventional combat where appropriate. Kōton remains completely secret and is only used when Ashe explicitly chooses to reveal its capabilities to the situation, always while masked during public contract work.
 
 The wider shinobi underworld remains a long-term possible direction, but it must emerge naturally and must not be forced.
 
