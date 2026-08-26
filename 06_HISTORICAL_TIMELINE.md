@@ -65,3 +65,9 @@
 - Ashe does **not** use Kōton or Flash Step during this public training with Daichi. Her pre-existing Flash Step experience on moving water remains private knowledge.
 - Ashe develops better conventional terrain integration, particularly with kunai and sword use in difficult environments.
 - Ashe leaves the settlement and continues travelling deeper into the Land of Waterfalls.
+- Ashe finds a secluded waterfall and begins privately experimenting with Flash Step at higher output. She successfully crosses the waterfall almost completely dry, establishing a higher-output short-distance Flash Step.
+- Ashe then trains continuous high-output movement rather than separate point-to-point bursts. She successfully performs an **A → B → C** route in one continuous movement, using B as a trajectory point rather than stopping there.
+- Ashe learns to accelerate, alter trajectory while still moving, and accelerate again without fully resetting Flash Step. At short distances the movement can appear almost instantaneous despite being actual physical travel.
+- Ashe decides to remain at the waterfall for approximately six months for dedicated training, with brief trips to the nearby settlement for supplies and breaks.
+- The six-month programme focuses on three major areas: making continuous High-Output Flash Step reliable while blindfolded in familiar terrain, improving visual perception and processing at extreme movement speed, and eventually throwing hard-light kunai or shuriken accurately at moving targets while moving at extreme Flash Step speed.
+- These six-month goals are active training objectives and are not yet completed.
