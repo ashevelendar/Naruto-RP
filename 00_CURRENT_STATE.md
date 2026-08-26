@@ -1,17 +1,17 @@
 # CURRENT STATE
 
 ## Date
-**Year 3, Early Winter**
+**Year 4, Early Spring**
 
 ## Ashe Tsu
-- Age: 18
+- Age: 19
 - Role: Travelling First Speaker of Riverhome
 - Kōton: Secret
 - The Hollow: Secret and restricted
 - Kōton Light Control: **18/20**
 - Original ambition: Explore the world
 - Current location: Takigakure region, Land of Waterfalls
-- Current purpose: Spend the winter in and around Takigakure while earning money through independent mercenary and bounty contracts and continuing to explore the wider world.
+- Current purpose: Continue travelling and taking increasingly dangerous independent mercenary and bounty contracts.
 - Long-term interest: Eventually discover the wider shinobi underworld, including missing-nin, bounty hunters, underground fighting, criminal and mercenary circles, and other unofficial networks, but this should emerge naturally rather than being forced.
 - Riverhome leadership: Ashe has formally delegated routine civil affairs to her mother while travelling; Riverhome continues independently through the council, Guard, Academy, schoolhouse, and established trade.
 - **Mask while working:** Whenever Ashe is inside a village or settlement for mercenary work, taking contracts, meeting clients, or otherwise operating in the local public sphere, she wears her mask. No one in those circumstances sees her face. The mask is part of her working identity and helps preserve anonymity.
@@ -61,22 +61,27 @@
 - An arm or leg can begin moving at normal speed and receive extreme acceleration during the same movement.
 - Sword strikes are the primary successful application. The attack can begin as a normal-looking sword movement and suddenly accelerate during its final portion.
 - Limb acceleration is not yet equivalent to full-body High-Output Flash Step. Maximum safe output remains below Ashe's full-body movement ceiling, and repeated use causes significant limb and joint stress.
-- Ashe has combined Limb Flash Step experimentally with an invisible hard-light blade, keeping the construct non-solid and visually undetectable while positioning it, then selectively hardening it after reaching the intended internal position. This combination has been successfully tested against animals and inanimate targets, but has not yet been used against a human opponent.
+- Ashe has combined Limb Flash Step experimentally with an invisible hard-light blade, keeping the construct non-solid and visually undetectable while positioning it, then selectively hardening it after reaching the intended internal position. This combination has been successfully tested against animals and inanimate targets, and has now been used successfully against a human missing-nin.
+- The human application demonstrated that Ashe can combine High-Output Flash Step, Limb Flash Step, an invisible non-solid hard-light sword, internal positioning, selective hardening and Dynamic Expansion in a single lethal sequence.
 
 ## Takigakure / Mercenary Work
-- Ashe has arrived in the Takigakure region before the heavy winter snow.
-- She has chosen to spend the winter in and around Takigakure.
-- She is taking independent mercenary and bounty contracts rather than official village missions.
-- Current work includes escorts, deliveries, protection jobs, and bounty hunting.
+- Ashe has spent Year 3 winter in and around Takigakure taking independent mercenary and bounty contracts rather than official village missions.
 - Ashe wears her mask for **all village/settlement contract work and client interactions**, and no client or local contact sees her face.
-- Her public working identity is therefore an anonymous masked freelancer.
-- Ashe has completed several routine contracts and has begun developing a small local reputation as a capable, reliable traveller.
-- A merchant escort was attacked by ordinary bandits. Ashe defeated them using conventional swordsmanship and the newly established Limb Flash Step without revealing Kōton.
-- Ashe accepted and completed a bounty contract against a bandit group. The posted target count was six, but she located nine members/associates and captured them. The contract paid **140,000 ryō**.
-- During the bounty, Ashe used conventional swordsmanship and Limb Flash Step openly. She also used Kōton privately while masked, including an invisible non-solid hard-light weapon and selective internal hardening. No one saw her face and no one learned that Kōton was involved.
-- Ashe sent part of her bounty earnings back to Riverhome as financial support. The exact amount was not specified and should not be invented.
-- Ashe has now chosen to deliberately accept a **missing-nin bounty** as the next major contract. This is intended as an opportunity to use her full combat arsenal if necessary, including Kōton, Radiant Edge, High-Output Flash Step, Limb Flash Step, Eclipse, invisible hard-light constructs, and other established techniques. She will remain masked throughout the contract.
-- If Kōton is used during the missing-nin hunt, witnesses should associate the strange abilities with the anonymous masked freelancer. No witness should know that the freelancer is Ashe Tsu unless Ashe explicitly reveals it.
+- Her public working identity is an anonymous masked freelancer.
+- During the winter she deliberately accepted increasingly dangerous contracts, using conventional swordsmanship, kunai, taijutsu, Limb Flash Step and tactical movement rather than relying exclusively on Kōton.
+- Ashe completed contracts involving bandits, mercenaries, thieves, rogue shinobi and other dangerous targets.
+- Kōton was used selectively when a fight became dangerous enough to justify it. The masked identity remained intact.
+- Ashe successfully fought a sensor-type rogue shinobi and a former Chūnin, adapting Eclipse, High-Output Flash Step, conventional swordsmanship, Limb Flash Step and Kōton to their different capabilities.
+- Ashe completed a high-value missing-nin bounty. She deliberately used her full arsenal when the fight became serious, including High-Output Flash Step, Eclipse, Radiant Edge, invisible hard-light construction, Limb Flash Step and internal hardening.
+- In the decisive attack, Ashe used High-Output Flash Step to close distance, accelerated her sword-bearing limb to extreme speed, positioned an invisible non-solid hard-light sword inside the missing-nin's chest, then hardened and expanded the construct internally. The missing-nin died immediately.
+- Ashe remained masked throughout. No one saw her face and no one learned that the masked freelancer was Ashe Tsu.
+- The missing-nin fight demonstrated the lethal human application of the invisible embedded-hardening combination, but also caused heavy chakra expenditure and significant arm/shoulder strain.
+- Ashe then spent approximately a week recovering. During recovery she removed her mask and returned to the nearby settlement as an ordinary traveller. She did not take contracts or use Kōton during recovery.
+- By the end of winter, Ashe had deliberately established a pattern of accepting increasingly dangerous contracts while still maintaining a balance between conventional combat and Kōton.
+- Ashe has now decided to begin accepting **missing-nin contracts as a regular category of work**.
+- **Missing-nin contract policy:** When Ashe accepts a missing-nin bounty, she does not intend to leave the target alive. She considers lethal resolution easier and safer than attempting to capture and transport a trained rogue shinobi. Unless circumstances make the target's survival unavoidable, missing-nin targets taken by Ashe are killed.
+- This policy is Ashe's own practical conclusion from fighting trained shinobi. It does not mean every future target will be easy or that every contract will proceed cleanly.
+- Ashe will still use conventional skills where appropriate. Kōton is a powerful part of her arsenal, not an automatic first move. She may escalate to Kōton and her full arsenal when the target warrants it.
 - The growing reputation of the masked freelancer may naturally lead locals to invent a nickname for her. Any nickname should arise organically from what witnesses and other contractors actually observe, not be imposed immediately or treated as a formal identity before it has spread.
 
 ## Six-Month Waterfall Training
@@ -85,7 +90,7 @@
 - By the end of the six months, Ashe could execute complex continuous High-Output Flash Step routes blindfolded when she knew the terrain, process visible terrain and moving targets at extreme speed, and land basic hard-light kunai/shuriken throws against moving targets while moving herself at extreme speed.
 
 ## Riverhome
-- Population: **51 permanent residents**
+- Population: **51 permanent residents**, last confirmed figure
 - Adults: **40**
 - Children: **11**
 - Government: Free, council-governed settlement
@@ -99,10 +104,10 @@
 - Livestock: Established
 - The Hollow: Secret
 - Kōton: Completely secret
-- Ashe has recently sent financial support back to Riverhome from her mercenary earnings. The exact amount was intentionally left unspecified.
+- Ashe has sent financial support back to Riverhome from her mercenary earnings. The exact amount was intentionally left unspecified.
 
 ## Current Focus
-Ashe is spending the winter in and around Takigakure while earning money through independent mercenary and bounty contracts. She is deliberately seeking increasingly dangerous targets, including armed bandits and now a genuine missing-nin, because it provides useful real-world combat experience. When working publicly, she always wears her mask and does not reveal her face. If she deliberately uses Kōton during a dangerous contract, witnesses should only associate the ability with the anonymous masked freelancer, not Ashe Tsu.
+Ashe is entering Year 4 and continuing her life as an anonymous masked mercenary and bounty hunter. She is now specifically willing to take missing-nin contracts and expects lethal outcomes when she accepts them, while still relying on conventional combat whenever it is sufficient. Kōton remains completely secret and is only used when Ashe explicitly chooses to reveal its capabilities to the situation, always while masked during public contract work.
 
 The wider shinobi underworld remains a long-term possible direction, but it must emerge naturally and must not be forced.
 
