@@ -72,8 +72,11 @@
 - Her public working identity is therefore an anonymous masked freelancer.
 - Ashe has completed several routine contracts and has begun developing a small local reputation as a capable, reliable traveller.
 - A merchant escort was attacked by ordinary bandits. Ashe defeated them using conventional swordsmanship and the newly established Limb Flash Step without revealing Kōton.
-- Ashe is now specifically interested in taking somewhat more dangerous contracts, including protecting people through bandit territory, recovering stolen goods, and similar work that provides more genuine combat opportunities while still allowing her to keep Kōton hidden.
+- Ashe accepted and completed a bounty contract against a bandit group. The posted target count was six, but she located nine members/associates and captured them. The contract paid **140,000 ryō**.
+- During the bounty, Ashe used conventional swordsmanship and Limb Flash Step openly. She also used Kōton privately while masked, including an invisible non-solid hard-light weapon and selective internal hardening. No one saw her face and no one learned that Kōton was involved.
+- Ashe is now specifically interested in taking more dangerous bounty contracts, including targets with shinobi training, because they provide genuine combat opportunities while allowing her to keep Kōton hidden behind the mask.
 - Some informal contract-board work is clearly legitimate, while other postings are questionable or potentially criminal. Ashe has noticed this but has not yet pursued the clearly criminal jobs.
+- Ashe sent part of her bounty earnings back to Riverhome as financial support while continuing her travels. The exact amount was not specified and should not be invented.
 
 ## Six-Month Waterfall Training
 - Ashe spent approximately six months at a secluded waterfall, making brief trips to the nearby settlement for supplies and breaks while surviving partly through hunting.
@@ -95,9 +98,10 @@
 - Livestock: Established
 - The Hollow: Secret
 - Kōton: Completely secret
+- Ashe has recently sent financial support back to Riverhome from her mercenary earnings. The exact amount was intentionally left unspecified.
 
 ## Current Focus
-Ashe is spending the winter in and around Takigakure while earning money through independent mercenary contracts. She is deliberately seeking somewhat more dangerous escort, protection and recovery work because it provides useful real-world combat experience without requiring her to reveal Kōton.
+Ashe is spending the winter in and around Takigakure while earning money through independent mercenary and bounty contracts. She is deliberately seeking increasingly dangerous targets, including armed bandits and shinobi-trained criminals, because it provides useful real-world combat experience. When working publicly, she always wears her mask and does not reveal her face. If she deliberately uses Kōton during a dangerous contract, witnesses should only associate the ability with the anonymous masked freelancer, not Ashe Tsu.
 
 The wider shinobi underworld remains a long-term possible direction, but it must emerge naturally and must not be forced.
 
