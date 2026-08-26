@@ -51,7 +51,10 @@
 - Ashe refines invisible hard-light weapons for approximately one week in a secluded Land of Waterfalls clearing. She discovers that keeping the construct non-solid while positioning it is substantially cheaper than maintaining continuous hard-light solidity, and that only the intended section needs to be hardened at the moment of interaction.
 - Ashe deliberately combines this new invisible selective-solidity principle with the already-established Internal / Embedded Hardening and Dynamic Expansion principles. A construct can be positioned inside an inanimate target while non-solid, expanded or shaped as needed, then hardened internally.
 - Ashe spends approximately another week hunting animals for food while using the new Kōton principles. The animals provide moving, fleeing, jumping and attacking living targets, allowing practical testing of positioning and timing while also supplying food Ashe would have hunted regardless.
+- Ashe tests invisible kunai, short swords, spears, narrow spikes and other simple forms against moving animals. Simple geometry proves easier to control than complex forms.
+- Ashe learns to anticipate where moving targets will be rather than simply reacting to their current position, improving placement and hardening timing.
 - Ashe takes regular chakra-rest periods during the experiments and resumes after recovery.
+- No human witnesses the Kōton hunting experiments.
 - Ashe witnesses the Chūnin Exam invasion and assists civilians while masked. She uses ordinary combat first, then Kōton during the chaos.
 - Ashe uses repeated Flash Steps to escape the arena and then leaves Konoha once the fighting slows.
 - Ashe travels south, then takes a western route into the **Land of Waterfalls**.
