@@ -16,6 +16,7 @@
 - Riverhome leadership: Ashe has formally delegated routine civil affairs to her mother while travelling; Riverhome continues independently through the council, Guard, Academy, schoolhouse, and established trade.
 - **Mask while working:** Whenever Ashe is inside a village or settlement for mercenary work, taking contracts, meeting clients, or otherwise operating in the local public sphere, she wears her mask. No one in those circumstances sees her face. The mask is part of her working identity and helps preserve anonymity.
 - **Mask outside work:** When travelling privately, resting in secluded areas, training alone, or otherwise not deliberately concealing her identity, Ashe may remove the mask. Kōton use remains secret regardless.
+- **Identity separation:** Ashe Tsu and the masked freelancer are treated as completely separate identities in public. People who know the masked freelancer do not know Ashe Tsu, and people encountering Ashe unmasked have no reason to connect her to the masked contractor.
 
 ## Core Combat Continuity
 - Ashe was already a trained shinobi before reaching Konoha. Her parents trained her in basic and practical shinobi skills, including conventional combat, kunai use, movement and swordsmanship.
@@ -26,7 +27,7 @@
 ## Kōton Secrecy, ABSOLUTE
 - Kōton is a unique kekkei genkai possessed only by Ashe.
 - **Only Ashe's mother and father know that Kōton exists and that Ashe possesses it.**
-- No Riverhome council member, Guard member, teacher, resident, merchant, Konoha shinobi, Waterfalls shinobi, neighbouring village, client, mercenary contact, or other known person is aware that Ashe has Kōton unless Ashe explicitly reveals it in play.
+- No Riverhome council member, Guard member, teacher, resident, merchant, Konoha shinobi, Waterfalls shinobi, neighbouring village, client, mercenary contact, private contract contact, or other known person is aware that Ashe has Kōton unless Ashe explicitly reveals it in play.
 - Ashe does **not** casually use Kōton around other shinobi or strangers. Kōton use requires an explicit player choice or a circumstance where Ashe deliberately accepts the secrecy risk.
 - The Hollow is also secret.
 
@@ -60,7 +61,7 @@
 - Ashe can maintain extreme velocity through short continuous routes and change direction without returning to ordinary movement, but sharp turns at maximum output remain dangerous.
 - Familiar terrain remains important for blind use. Ashe can navigate known routes at extreme output, but unknown terrain is substantially more dangerous.
 - The technique is **not inherently impossible to track**. Exceptional sensory abilities, prediction, wide-area techniques, or simply occupying the correct position can still counter or intercept it.
-- Extreme High-Output Flash Step has not yet been tested against a high-level shinobi. Its real combat effectiveness against Jonin-level opponents remains unknown.
+- Extreme High-Output Flash Step has now been successfully tested against a Jonin-level missing-nin, Shigure. It reduced his reaction window substantially compared with the previous High-Output version, though he could still track fragments of the movement.
 
 ## Limb Flash Step
 - Ashe has established **Limb Flash Step / Extreme Limb Acceleration**, applying the acceleration principle of High-Output Flash Step to an individual limb rather than relocating her whole body.
@@ -69,7 +70,8 @@
 - Limb acceleration is not yet equivalent to full-body High-Output Flash Step. Maximum safe output remains below Ashe's full-body movement ceiling, and repeated use causes significant limb and joint stress.
 - Ashe has combined Limb Flash Step experimentally with an invisible hard-light blade, keeping the construct non-solid and visually undetectable while positioning it, then selectively hardening it after reaching the intended internal position. This combination has been successfully tested against animals and inanimate targets, and has now been used successfully against a human missing-nin.
 - The human application demonstrated that Ashe can combine High-Output Flash Step, Limb Flash Step, an invisible non-solid hard-light sword, internal positioning, selective hardening and Dynamic Expansion in a single lethal sequence.
-- **Important current boundary:** Ashe has not yet combined Limb Flash Step with the newly developed Extreme High-Output Flash Step. That remains an untested escalation.
+- Ashe has **not** established a separate rule that Limb Flash Step must be used for every Kōton internal strike. She can position Kōton constructs through full-body movement, remote formation, or limb acceleration depending on the situation.
+- **Important current boundary:** Ashe has not yet combined Limb Flash Step with the newly developed Extreme High-Output Flash Step as a dedicated technique. That remains an untested escalation.
 
 ## Takigakure / Mercenary Work
 - Ashe has spent Year 3 winter and Year 4 spring in and around Takigakure taking independent mercenary and bounty contracts rather than official village missions.
@@ -85,9 +87,26 @@
 - Ashe then spent approximately a week recovering. During recovery she removed her mask and returned to the nearby settlement as an ordinary traveller. She did not take contracts or use Kōton during recovery.
 - During Year 4 spring, Ashe accepted a series of increasingly dangerous missing-nin contracts. She deliberately killed the targets rather than attempting capture, based on her practical conclusion that trained rogue shinobi are safer to eliminate than transport alive.
 - These contracts included former Genin, tracker/ambush specialists, and a former Chūnin-level missing-nin. Ashe used a mixture of conventional combat, swordsmanship, Limb Flash Step, Eclipse, High-Output Flash Step and Kōton depending on the threat.
-- The masked freelancer's reputation has begun spreading beyond simple reliability. Locals and contractors have begun inventing unofficial nicknames, including **Waterfall Ghost**, **Flash Blade**, and **Black Mask**. None is yet established as definitive, and the eventual nickname should emerge naturally from the world.
-- Ashe has now taken a one-month break from contracts to develop Extreme High-Output Flash Step.
-- Following the month of training, Ashe is now specifically seeking **Jonin-level missing-nin contracts** to test whether the new Extreme High-Output Flash Step can defeat or evade shinobi capable of tracking her previous High-Output Flash Step.
+- Ashe later deliberately sought and accepted a Jonin-level missing-nin contract against **Shigure**. Shigure was a highly capable rogue shinobi specialising in tracking, assassination and Earth Release.
+- In the Shigure fight, Extreme High-Output Flash Step substantially reduced his ability to track Ashe compared with the previous version. Ashe then used rapid successive Extreme Flash Steps followed by three invisible non-solid hard-light swords, one in her hand and two positioned from the sides. All three were hardened inside Shigure and expanded before being released. Shigure died.
+- Ashe collected the **800,000 ryō** bounty for Shigure.
+- After Shigure's death, the masked freelancer's reputation expanded significantly. Multiple unofficial nicknames circulated, including **Waterfall Ghost**, **Flash Blade**, **Black Mask**, and later **Flashing Phantom**. None is definitively established yet. The eventual nickname should emerge naturally from the world.
+
+## Private Contract Network
+- After the Shigure bounty, an anonymous private contact approached the masked freelancer with an offer for work outside the ordinary bounty system.
+- The private network is secretive and compartmentalised. It does **not** casually reveal client identities, target details, contractor identities, or operational information to new freelancers.
+- The network does not know Ashe Tsu's name, face, home, lodging, Riverhome connection, or other personal identity information.
+- Communication is handled through anonymous meeting points, dead-drop style exchanges, or other controlled channels. A messenger does not know where Ashe lives and does not visit her lodging.
+- The masked freelancer is the only identity the network is entitled to know. Ashe explicitly established that her name, face, origin and personal identity are not part of the business relationship.
+- Ashe accepted an initial private contract for **1,200,000 ryō** to eliminate a former caravan guard responsible for theft, extortion and murder. Intelligence suggested several associates were operating with him, but Ashe correctly left those associates alone because she had not been paid or instructed to deal with them.
+- Ashe eliminated the contracted target while he was isolated, using Extreme High-Output Flash Step combined with a Lightspeed-level internal invisible hard-light sword strike. The construct hardened inside his heart and disappeared immediately afterward. No known witnesses saw the attack.
+- Ashe collected the **1,200,000 ryō** payment.
+- The network subsequently offered a contract involving a **former Jonin** and initially discussed having the target "removed". Ashe clarified that a disappearance, rather than a straightforward kill, is a materially more difficult service and demanded higher payment.
+- The network agreed to **2,500,000 ryō** for the disappearance objective, but Ashe has **not yet accepted** the contract because she reasonably requested to know the nature of the assignment before committing.
+- The network will provide a general target profile and reason for the contract before acceptance, while keeping sensitive operational details compartmentalised until she accepts.
+- The target is described only as a **former Jonin** at this stage. Detailed identity, location, abilities and client information have not yet been provided.
+- Ashe took a day off while the negotiation was pending and visited local hot baths **unmasked**, presenting simply as a weary young traveller. No one connected her to the masked freelancer, and no messenger visited or located her lodging.
+- The distinction between Ashe's unmasked civilian/traveller identity and the masked freelancer is absolute in public dealings.
 
 ## Six-Month Waterfall Training
 - Ashe spent approximately six months at a secluded waterfall, making brief trips to the nearby settlement for supplies and breaks while surviving partly through hunting.
@@ -102,7 +121,7 @@
 - The result is Extreme High-Output Flash Step, which reaches extreme velocity much faster than the previous High-Output version and therefore reduces the reaction window available to observers.
 - Ashe successfully crossed the waterfall at the new output with dramatically less perceived interaction with the falling water than during her original high-output training.
 - Ashe tested the new movement through familiar A → B → C routes and achieved continuous high-speed directional changes without fully resetting to normal speed.
-- The new technique has not yet been tested against a Jonin-level opponent or exceptional sensory shinobi.
+- The new technique has now been tested successfully against a Jonin-level opponent and shown to be substantially harder to track than the previous High-Output Flash Step.
 
 ## Riverhome
 - Population: **51 permanent residents**, last confirmed figure
@@ -122,7 +141,11 @@
 - Ashe has sent financial support back to Riverhome from her mercenary earnings. The exact amount was intentionally left unspecified.
 
 ## Current Focus
-Ashe is in Year 4, early summer, in the Land of Waterfalls. She has finished a month-long speed-focused training period and is now deliberately seeking **Jonin-level missing-nin contracts**. Her purpose is to test the new Extreme High-Output Flash Step against significantly stronger shinobi and discover whether the reduced acceleration window makes her movement substantially harder to track.
+Ashe is in Year 4, early summer, in the Land of Waterfalls. She has established a growing reputation as an anonymous masked mercenary and missing-nin hunter. She has now begun receiving offers from a private, compartmentalised contract network outside the ordinary bounty system.
+
+The immediate situation is a **2,500,000 ryō disappearance contract involving a former Jonin**. Ashe has negotiated the higher payment but has not yet accepted. The network will provide a general profile and reason for the assignment before she commits, while detailed operational information will remain restricted until acceptance.
+
+Ashe's identity remains completely separate from the masked freelancer. The network must never be assumed to know Ashe Tsu, Riverhome, her family, her face, her lodging, or her unmasked appearance unless she explicitly reveals them.
 
 Ashe will still use conventional combat where appropriate. Kōton remains completely secret and is only used when Ashe explicitly chooses to reveal its capabilities to the situation, always while masked during public contract work.
 
