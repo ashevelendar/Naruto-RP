@@ -44,6 +44,7 @@
 - Eclipse: manipulates light entering an opponent's eyes. Year 3 refinement allows minutes-long duration with low chakra costs, including partial and moving interference.
 - Remote Light Redirection: bends existing light paths to see around obstacles or view alternate angles.
 - Lightspeed Slashes: extreme fraction-of-a-second speed burst combined with combat movement. Very high chakra output causes severe depletion.
+- **Mirage Decoy:** Ashe is developing a Kōton technique that creates a convincing visual mirage of herself or her attack trajectory using manipulated light. The mirage is not a physical duplicate and cannot deal damage. Its purpose is deception, forcing an opponent to react to a false attacker or false movement while Ashe moves elsewhere.
 
 ## Flash Step Development
 - Flash Step / Flash Jump: rapid movement/elevation shifts using light.
@@ -62,6 +63,13 @@
 - Familiar terrain remains important for blind use. Ashe can navigate known routes at extreme output, but unknown terrain is substantially more dangerous.
 - The technique is **not inherently impossible to track**. Exceptional sensory abilities, prediction, wide-area techniques, or simply occupying the correct position can still counter or intercept it.
 - Extreme High-Output Flash Step has now been successfully tested against a Jonin-level missing-nin, Shigure. It reduced his reaction window substantially compared with the previous High-Output version, though he could still track fragments of the movement.
+- **Veiled Extreme Flash Step:** Current experimental development combining Invisibility with Extreme High-Output Flash Step. The goal is not merely to make Ashe invisible, but to remove usable visual information about the movement itself, including her silhouette and obvious movement signature.
+- Veiled Extreme Flash Step is harder to maintain than ordinary Invisibility because Ashe is manipulating light around a body moving at extreme speed. Environmental disturbances such as dust, leaves, water, loose ground, sound and other physical effects can still reveal movement.
+- Ashe is training irregular routes and acceleration patterns so that even if an opponent detects a disturbance, the movement is difficult to predict.
+- **Mirage-assisted Veiled Extreme Flash Step:** Ashe has now added a deliberate visual-decoy component to the technique. While Veiled Extreme Flash Step hides her real movement, she can leave a manipulated-light mirage that appears to attack or move along a false trajectory. The mirage is purely visual and cannot physically harm the opponent. Its purpose is to make an observer commit their attention, defensive response, or tracking prediction to the wrong location while Ashe moves elsewhere.
+- The mirage can be shaped to resemble an attacking Ashe, a sword strike, or another plausible movement depending on the available light and Ashe's control.
+- The mirage is not a clone and cannot independently interact with the environment. A sufficiently perceptive opponent may identify it as an illusion if they notice inconsistencies, but the combination is intended to exploit the tiny reaction window created by Extreme Flash Step.
+- **Current status:** Mirage-assisted Veiled Extreme Flash Step is experimental and has not yet been tested against Renji or another elite intelligence/sensory shinobi.
 
 ## Limb Flash Step
 - Ashe has established **Limb Flash Step / Extreme Limb Acceleration**, applying the acceleration principle of High-Output Flash Step to an individual limb rather than relocating her whole body.
@@ -102,9 +110,13 @@
 - Ashe eliminated the contracted target while he was isolated, using Extreme High-Output Flash Step combined with a Lightspeed-level internal invisible hard-light sword strike. The construct hardened inside his heart and disappeared immediately afterward. No known witnesses saw the attack.
 - Ashe collected the **1,200,000 ryō** payment.
 - The network subsequently offered a contract involving a **former Jonin** and initially discussed having the target "removed". Ashe clarified that a disappearance, rather than a straightforward kill, is a materially more difficult service and demanded higher payment.
-- The network agreed to **2,500,000 ryō** for the disappearance objective, but Ashe has **not yet accepted** the contract because she reasonably requested to know the nature of the assignment before committing.
-- The network will provide a general target profile and reason for the contract before acceptance, while keeping sensitive operational details compartmentalised until she accepts.
-- The target is described only as a **former Jonin** at this stage. Detailed identity, location, abilities and client information have not yet been provided.
+- The network agreed to **2,500,000 ryō** for the disappearance objective, but Ashe has now **accepted** the contract after receiving a general target profile and reason for the assignment.
+- Detailed operational information remains compartmentalised and will only be provided as appropriate.
+- Target: **Kuroda Renji**, age 34, former Takigakure Jonin, former intelligence/infiltration specialist, Earth Release user, highly proficient in tracking and counter-infiltration.
+- Renji served as a field Jonin for approximately eleven years before disappearing around two years ago. He resurfaced months ago and several former intelligence personnel and intermediaries subsequently disappeared. It is not definitively established that Renji killed all of them.
+- Last confirmed sighting: Northern Land of Waterfalls.
+- Client wants Renji completely removed, with no body recovered and no evidence connecting the client or network to the operation.
+- Ashe specifically chose to prepare for Renji by developing a way to conceal not only her body but the visual information surrounding her movement. She is currently developing Mirage-assisted Veiled Extreme Flash Step for this purpose.
 - Ashe took a day off while the negotiation was pending and visited local hot baths **unmasked**, presenting simply as a weary young traveller. No one connected her to the masked freelancer, and no messenger visited or located her lodging.
 - The distinction between Ashe's unmasked civilian/traveller identity and the masked freelancer is absolute in public dealings.
 
@@ -122,6 +134,7 @@
 - Ashe successfully crossed the waterfall at the new output with dramatically less perceived interaction with the falling water than during her original high-output training.
 - Ashe tested the new movement through familiar A → B → C routes and achieved continuous high-speed directional changes without fully resetting to normal speed.
 - The new technique has now been tested successfully against a Jonin-level opponent and shown to be substantially harder to track than the previous High-Output Flash Step.
+- After accepting the Renji contract, Ashe began developing Veiled Extreme Flash Step and its mirage-assisted variant specifically to counter a tracking/infiltration specialist.
 
 ## Riverhome
 - Population: **51 permanent residents**, last confirmed figure
@@ -143,7 +156,9 @@
 ## Current Focus
 Ashe is in Year 4, early summer, in the Land of Waterfalls. She has established a growing reputation as an anonymous masked mercenary and missing-nin hunter. She has now begun receiving offers from a private, compartmentalised contract network outside the ordinary bounty system.
 
-The immediate situation is a **2,500,000 ryō disappearance contract involving a former Jonin**. Ashe has negotiated the higher payment but has not yet accepted. The network will provide a general profile and reason for the assignment before she commits, while detailed operational information will remain restricted until acceptance.
+The immediate situation is a **2,500,000 ryō disappearance contract involving former Takigakure Jonin Kuroda Renji**. Ashe has accepted the assignment after receiving his general profile. Renji is an intelligence/infiltration specialist with Earth Release and strong tracking/counter-infiltration skills. His last confirmed location is the northern Land of Waterfalls.
+
+Ashe is currently preparing a specialised counter to his tracking: **Mirage-assisted Veiled Extreme Flash Step**, combining Invisibility, Extreme High-Output Flash Step, irregular movement patterns, and a false visual attacker/trajectory created through manipulated light. The technique is experimental and has not yet been tested against Renji.
 
 Ashe's identity remains completely separate from the masked freelancer. The network must never be assumed to know Ashe Tsu, Riverhome, her family, her face, her lodging, or her unmasked appearance unless she explicitly reveals them.
 
