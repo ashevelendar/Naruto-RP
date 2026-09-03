@@ -36,13 +36,14 @@
 - Invisible Hard-Light Constructs: established experimental capability.
 - Invisible Selective-Solidity: refined. Long invisible constructs can remain non-solid, then harden only the relevant section at the intended moment.
 - Invisible Dynamic Expansion: established experimental combination.
-- Invisibility: manipulates light around Ashe to hide her visually. Does not stop non-visual tracking.
+- Invisibility: manipulates ambient light to hide visually. Does not stop non-visual tracking.
 - Eclipse: manipulates light entering an opponent's eyes. Year 3 refinement allows minutes-long duration with low chakra costs, including partial and moving interference.
 - Remote Light Redirection: bends existing light paths to see around obstacles or view alternate angles.
-- **Radiant Edge:** concentrated light attack capable of burning/cutting through a target at close range. Ashe has now begun developing a ranged version.
-- **Radiant Edge, Long-Range Piercing:** current experimental development. Ashe wants to concentrate light into a narrow, high-intensity beam capable of being aimed at a target around **20 metres away** and passing through the target rather than simply burning the surface. The intended principle is a focused piercing ray, not a broad projectile or explosive blast.
-- Current status of long-range Radiant Edge: experimental, not yet proven at 20 metres and not yet established as reliable against moving targets.
-- The technique is expected to require significantly finer light concentration and targeting control than the close-range version. Penetration, beam stability, atmospheric scattering, and chakra expenditure remain unknown until tested.
+- **Radiant Edge:** concentrated light attack capable of burning/cutting through a target at close range.
+- **Radiant Edge, Long-Range Piercing:** experimental ranged version using concentrated existing light, including sunlight or artificial light sources such as light bombs, to produce a narrow piercing ray. Under strong sunlight, Ashe has made it reliable against stationary targets at approximately **50 metres**. Greater range is possible but precision degrades. The technique is weaker in darkness unless an adequate artificial light source is available.
+- **Light Bomb Integration:** Ashe can use the emitted flash from portable light bombs as an artificial light source for Kōton techniques. Multiple bombs can provide distributed illumination, and a bomb can potentially be positioned near a target to provide usable light.
+- **Light Cage / Radiant Cage:** Ashe has developed a lattice-like containment technique using concentrated light. A Light Cage restricts movement through a geometric lattice; a Radiant Cage can intensify sections into dangerous burning or piercing lines. Bright ambient light or light bombs make rapid formation easier. Large or highly intense cages require substantial concentration and chakra.
+- **Kōton Light Seal:** experimental sealing-like application developed from the Light Cage. Ashe can form a dense three-dimensional light lattice or compact light sphere around an object and interfere with physical movement and chakra flow. It is not conventional fuinjutsu because Ashe has not learned formal sealing formulas. A prototype maintained briefly after she released direct concentration. Current limitations include temporary duration, concentration demands, larger-target costs, and the possibility of strong chakra disrupting or resisting the containment. It has not yet been tested against a living shinobi.
 - **Mirage Decoy:** Manipulated-light visual projection of Ashe or an attack trajectory. It is not a physical clone.
 - **Hard Mirage Weapon:** A mirage can wield a genuine hard-light weapon. The visual image may look imperfect or obviously illusory, while the associated sword remains physically capable of striking. The weapon can remain non-solid until the intended moment of contact.
 - Up to three combat mirages can currently be maintained. They can perform different convincing movements and sword attacks rather than simply copying Ashe.
@@ -54,20 +55,20 @@
 - High-Output Flash Step was refined into continuous controlled high-speed movement rather than separate point-to-point bursts.
 - A → B → C movement is established, with B functioning as a trajectory point rather than a stop.
 - Familiar-terrain blind movement is established.
-- Ashe can process visible terrain and moving objects at extreme speed and throw hard-light kunai/shuriken at specific moving targets while travelling at extreme speed.
+- Ashe can process visible terrain and moving objects at extreme speed and throw hard-light projectiles at specific moving targets while travelling at extreme speed.
 - **Extreme High-Output Flash Step:** established through one month of dedicated speed training. It dramatically reduces the time required to reach extreme velocity, shrinking an observer's reaction window.
 - Extreme High-Output Flash Step uses violent acceleration and extremely high chakra output. It is practical for short bursts and short continuous routes.
 - Ashe can maintain extreme velocity through short continuous routes and change direction without fully resetting her movement, but sharp turns remain dangerous.
 - Familiar terrain is substantially safer for blind use. Unknown terrain is dangerous.
-- Extreme High-Output Flash Step is not inherently impossible to track. Exceptional sensory abilities, prediction, wide-area techniques or correct positioning can still counter it.
-- Extreme High-Output Flash Step was successfully tested against Jonin-level missing-nin Shigure and substantially reduced his tracking ability compared with the previous High-Output version.
-- **Veiled Extreme Flash Step:** Invisibility combined with Extreme High-Output Flash Step. The purpose is to conceal not only Ashe's body but useful visual information about her movement itself.
+- Exceptional sensory abilities, prediction, wide-area techniques or correct positioning can still counter Extreme High-Output Flash Step.
+- Extreme High-Output Flash Step was successfully tested against Jonin-level missing-nin Shigure.
+- **Veiled Extreme Flash Step:** Invisibility combined with Extreme High-Output Flash Step.
 - Environmental disturbances, sound, dust, leaves, water and loose ground can still reveal movement.
 - **Mirage Veil:** Veiled Extreme Flash Step combined with manipulated-light combat mirages. A false attacker/trajectory draws the opponent's attention while Ashe moves elsewhere.
 - **Mirage Veil refinement:** The mirage can carry a genuine hard-light weapon, so identifying the image as an illusion does not automatically make its apparent attack harmless.
 - Up to three mirages can operate around Ashe while she moves independently under Veiled Extreme Flash Step.
 - Maintaining three mirages alongside Invisibility and Extreme High-Output Flash Step is extremely chakra and concentration intensive.
-- **Mirage Veil was successfully tested against former Jonin Kuroda Renji.** Renji correctly identified that Ashe's initial Flash Step was restrained, but after Ashe escalated he could not solve the combination of extreme acceleration, concealed movement and multiple false attackers quickly enough.
+- Mirage Veil was successfully tested against former Jonin Kuroda Renji.
 
 ## Limb Flash Step
 - Ashe has established Limb Flash Step / Extreme Limb Acceleration, applying Flash Step acceleration principles to an individual limb.
@@ -82,7 +83,7 @@
 - Ashe wears her mask for all village/settlement contract work and client interactions.
 - During the winter she accepted increasingly dangerous contracts using conventional swordsmanship, kunai, taijutsu, Limb Flash Step and tactical movement rather than relying exclusively on Kōton.
 - Ashe developed a policy of killing missing-nin targets rather than leaving them alive, based on practical experience that trained rogue shinobi are safer to eliminate than transport alive.
-- She deliberately sought and accepted a Jonin-level missing-nin contract against Shigure. Shigure was a highly capable rogue shinobi specialising in tracking, assassination and Earth Release.
+- Ashe deliberately sought and accepted a Jonin-level missing-nin contract against Shigure. Shigure specialised in tracking, assassination and Earth Release.
 - Ashe tested Extreme High-Output Flash Step against Shigure, then killed him using rapid successive Extreme Flash Steps and three invisible non-solid hard-light swords, one in hand and two from the sides. All three were hardened inside him and expanded before release.
 - Ashe collected the **800,000 ryō** bounty.
 - Her reputation has begun spreading through the local contract network. Unofficial names have included Waterfall Ghost, Flash Blade, Black Mask and Flashing Phantom. None is definitive.
@@ -107,46 +108,18 @@
 - Ashe selected The Red Jackal and negotiated the contract price to **4,000,000 ryō**.
 - The Red Jackal is an alias. Real identity and exact affiliation are unknown. At least seven shinobi kills are confirmed, including one Jōnin. The target is considered approximately Jōnin-level and has operated across the borders of Fire, Grass and Rain.
 - The last confirmed Red Jackal sighting was near a road between the Land of Grass and Land of Fire, approximately three weeks before the contract discussion.
-- Ashe has not yet begun the Red Jackal hunt. She decided to develop additional ranged capability before travelling toward the Fire border.
+- Ashe has now chosen to begin travelling toward the Fire/Grass border. The Red Jackal hunt is active, but the target's current location remains unknown.
 
 ## Money
 - After the 3,700,000 ryō in recent private-contract earnings, Ashe sent **2,000,000 ryō** to Riverhome, placed **1,000,000 ryō** into shinobi-world banking/savings, and retained **700,000 ryō** for personal travel, equipment and expenses.
 - The 4,000,000 ryō Red Jackal contract is a future payment, not yet received.
 
-## Six-Month Waterfall Training
-- Ashe spent approximately six months at a secluded waterfall, with brief supply trips to the nearby settlement and survival partly through hunting.
-- Training included blindfolded High-Output Flash Step through familiar terrain, visual processing at extreme speed, moving-target tracking, and hard-light projectile use while moving at extreme speed.
-- By the end, Ashe could execute complex continuous High-Output Flash Step routes blindfolded when she knew the terrain, process visible terrain and moving targets at extreme speed, and land hard-light kunai/shuriken against moving targets while moving herself at extreme speed.
-
-## One-Month Extreme Speed Training
-- Ashe spent one full month doing no mercenary work and focusing exclusively on increasing Flash Step speed.
-- She discovered that simply adding chakra to increase top speed became inefficient. The more important improvement was reducing acceleration time and transition time into extreme velocity.
-- The result is Extreme High-Output Flash Step, with dramatically faster acceleration and a smaller reaction window.
-- Ashe successfully crossed the waterfall at the new output and achieved continuous high-speed directional changes.
-
-## Riverhome
-- Population: **51 permanent residents**, last confirmed figure
-- Adults: **40**
-- Children: **11**
-- Government: Free, council-governed settlement
-- Leader: Ashe Tsu, travelling First Speaker
-- Civil Affairs: Ashe's mother, formally handling routine administration while Ashe travels
-- Guard: Active
-- Guard Academy: Established and expanding
-- Schoolhouse: Active and expanded
-- Trade: Established regional route
-- Agriculture: Sustainable
-- Livestock: Established
-- The Hollow: Secret
-- Kōton: Completely secret
-- Ashe has sent financial support back to Riverhome from her mercenary earnings. Exact amount in current transfer: **2,000,000 ryō**.
-
 ## Current Focus
 Ashe is in Year 4, early summer, in the Land of Waterfalls. She has established a growing reputation as an anonymous masked mercenary and missing-nin hunter and has begun receiving access to increasingly dangerous private contracts.
 
-The current accepted major contract is **The Red Jackal**, negotiated to **4,000,000 ryō**. The target is considered approximately Jōnin-level, has at least seven confirmed shinobi kills including a Jōnin, and operates around the borders of Fire, Grass and Rain. Ashe has not yet begun the hunt.
+The current accepted major contract is **The Red Jackal**, negotiated to **4,000,000 ryō**. The target is considered approximately Jōnin-level, has at least seven confirmed shinobi kills including a Jōnin, and operates around the borders of Fire, Grass and Rain. Ashe has now begun travelling toward the Fire/Grass border to pursue the contract.
 
-Before travelling toward the Fire border, Ashe has chosen to work on a long-range version of Radiant Edge. The goal is a concentrated light ray capable of striking a target approximately 20 metres away and passing through the target. This is experimental and not yet proven.
+The Kōton sealing experiment has been deliberately set aside for now. Ashe intends to return to Kōton Light Seal / fuinjutsu research later.
 
 Ashe's identity remains completely separate from the masked freelancer. The private networks must never be assumed to know Ashe Tsu, Riverhome, her family, her face, her lodging, or her unmasked appearance unless she explicitly reveals them.
 
